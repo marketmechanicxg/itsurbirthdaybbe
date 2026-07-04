@@ -86,8 +86,8 @@ const MEMORIES = [
   {
     depth: "8m",
     year:  "",
-    title: "— ur mom",
-    text:  "literally cuma kamu, aku, and those lil simple moments yang ternyata ended up meaning everything.",
+    title: "— ur friend, ryyn’ bryn n kayri",
+    text:  "Happy sweet seventeen piraa, di 17 ini semoga kebahagiaan selalu mendatangi hidupmu dan mengusir segala kemurungan dan kesedihan dari dirimu. Semoga di hari spesialmu, selalu diberikan kelimpahan keberkahan dan senantiasa dalam lindungan Yang Maha Esa. Terimakasih sudah menjadi rumah ternyaman untuk pulang dan bersandar sejenak dari masalah  yang terus menimpa, aku harap di 17 ini pira yang sekarang tak pernah berubah. Tetap menjadi pira yang selalu aku kenal dimanapun dan kapanpun, enjoy your birthday!!!hbd ok pir semoga ka sehat selalu panjang umur sehat selalu di berkati oleh bapa emak kk azka semoga ikk langgeng, happy birthday pyraa🎉🎉🎉",
   },
   {
     depth: "16m",
