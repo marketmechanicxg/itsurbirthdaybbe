@@ -84,6 +84,12 @@ const MEMORIES = [
     text:  "Tante sih gak masalah kalau positif² saja (penyemangat utk belajar),tante pernah tanya Cia , dia cuma senyum² saja, Cia tu orgnya tertutup dg ortu, pdhal temen² Cia pd seneng kalau ktmu Tante. Hanya saja ad ap² selalu nama Azka yg keluar dr mulutnya. Tlg ya kalau pacaran jangan sampai kayak anak zaman sekarang yg terlalu bebas. Tante percayakan ke Azka ank yg baik. Dan sekali² main krmh, Jd bapaknya tau. Gak usah malu.",
   },
   {
+    depth: "4m",
+    year:  " ",
+    title: "— ur mom",
+    text:  "Anak q sayang....Semoga kegembiraan hidup yang paling cemerlang menerangi jalanmu. Semoga perjalanan setiap hari membawamu lebih dekat dg impianmu. Lebih bertambah iman dan taqwa kepada Allah SWT,selamat dan sukses dunia akhirat,aamiiiin... Happy sweet seventeen, anak q sayang... ❤️😘",
+  },
+  {
     depth: "8m",
     year:  "",
     title: "— ur friend, ryyn’ bryn n kayri",
